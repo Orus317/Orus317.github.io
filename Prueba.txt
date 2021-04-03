@@ -3,4 +3,4 @@ Segunda línea en la segunda rama
 Tercera línea de master
 Más pruebas con git stash
 
-
+Sexta línea para Nuevo 2
